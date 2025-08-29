@@ -12,7 +12,7 @@
                     </div>
                 </v-col>
                 <v-col clss="text-center">
-                    <v-btn :to="'/'">devops shop</v-btn>
+                    <v-btn :to="'/'">devops shop automation</v-btn>
                 </v-col>
                 <!-- justify-end : 오른쪽 기준 정렬 -->
                 <v-col class="d-flex justify-end">
